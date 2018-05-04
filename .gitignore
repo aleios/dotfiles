@@ -1,0 +1,14 @@
+*
+!.config
+.config/**
+!.config/awesome/
+!.config/awesome/**
+!.config/mpd/
+!.config/mpd/**
+!.vim
+!.vim/**
+!.vimrc
+!.zshrc
+!.Xdefaults
+!.zprofile
+!.gitignore
